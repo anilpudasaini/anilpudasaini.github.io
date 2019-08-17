@@ -1,0 +1,63 @@
+html { 
+  background: url(../images/shadow.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: "Helvetica Neue", sans-serif;
+}
+
+.pro-box {
+	height: 650px;
+	width:  400px;
+	background: rgba(0,0,0,0.4);
+	padding: 40px;
+	color: white;
+	margin: 0 auto;
+	margin-top: 100px;
+	text-align: center;
+}
+
+.pro-pic {
+
+	height: 150px;
+    width: 150px;
+    border-radius: 80px;
+}
+
+h1 {
+	font-weight: 100;
+	letter-spacing: 6;
+	font-size: 40px;
+}
+
+p {
+	font-weight: 200;
+	letter-spacing: 1;
+}
+
+.social-icons {
+	font-size: 40px;
+}
+
+.social-icons a {
+	color: white;
+}
+
+.etc {
+	background-color: rgba(0,0,0,0.1);
+	font-family: "Helvetica";
+
+}
+
+.etc ol {
+	align-content: "left"
+
+}
+
+.line-break{
+	border-top: 2px solid white;
+	width: 300px;
+	margin: 0 auto; 
+}
+
